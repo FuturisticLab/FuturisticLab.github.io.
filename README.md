@@ -31,6 +31,16 @@ Chart.js Datalabels Plugin: For directly displaying data values on the chart ele
 
 This infographic is designed as a static single-page application, making it incredibly easy to view.
 
+### View Live on GitHub Pages
+
+The simplest way to experience the infographic is to visit its live hosted version on GitHub Pages:
+
+View the Live Infographic Here:
+The Ripple Effect: Tariffs and U.S. Commercial Building
+https://futuristiclab.github.io/FuturisticLab.github.io./
+
+
+
 ### Running Locally (Optional)
 
 If you wish to run or inspect the infographic locally:
