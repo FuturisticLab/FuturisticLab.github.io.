@@ -47,7 +47,7 @@ If you wish to run or inspect the infographic locally:
 
 1.  Clone the Repository:
     ```bash
-    git clone [https://github.com/FuturisticLab /chart-js-infographic.git](https://github.com/FuturisticLab /chart-js-infographic.git)
+    git clone https://github.com/FuturisticLab/chart-js-infographic.git
     ```
     
 2.  Navigate to the Directory:
